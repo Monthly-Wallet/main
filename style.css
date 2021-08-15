@@ -184,15 +184,6 @@ button:focus {
 /* HEADER */
 /*--------------------*/
 
-#mu-header {
-  background-image: url("assets/images/header-bg.jpg");
-  display: inline;
-  float: left;
-  width: 100%;
-  background-position: center center;
-  background-attachment: fixed;
-}
-
 .mu-header-overlay {
   display: inline;
   float: left;
@@ -242,7 +233,7 @@ button:focus {
 .mu-header-featured-area {
   display: inline;
   float: left;
-  padding: 50px 0;
+  padding: 79px 0;
   width: 100%;
 }
 
